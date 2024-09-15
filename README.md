@@ -6,7 +6,7 @@
   - Technologies: GitHub, MySQL, HTML/CSS
   - Areas of Interest: Software Development, Cloud Computing, Algorithms, Data Structures, Databases, Object-Oriented Programming (OOP)
 - 🌱 I’m currently learning JAVA, DSA...
-📫 Connect with Me
+- 📫 Connect with Me
   - Email: bhavikchotalia2005@gmail.com 
   - LinkedIn: [bhavik c](https://www.linkedin.com/in/bhavik-c-4b19a3244/)
 
