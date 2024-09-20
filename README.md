@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhavik Chotalia
 - 🌟 Aspiring Computer Engineer | Tech Enthusiast | Lifelong Learner
-- 👀 I’m a Student and pursing my B-tech in CHARUSAT (Charoatr Unversity of Science anf Technology) CSPIT CE
+- 👀 I’m a Student and pursing my B-tech in CHARUSAT (Charotar Unversity of Science anf Technology) CSPIT CE
 - 🚀 Skills & Technologies
   - Languages: C++, Python, Java, JavaScript
   - Technologies: GitHub, MySQL, HTML/CSS
